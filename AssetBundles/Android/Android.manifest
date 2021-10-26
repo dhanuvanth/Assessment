@@ -1,0 +1,7 @@
+ManifestFileVersion: 0
+CRC: 1573396537
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: anicontroller
+      Dependencies: {}
